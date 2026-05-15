@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "856997205148",
+    "project_id": "rick-and-morty-wikiapp2-jlcf",
+    "storage_bucket": "rick-and-morty-wikiapp2-jlcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856997205148:android:8eb205db35ef8ca305c959",
+        "android_client_info": {
+          "package_name": "com.example.actividad36"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmPTz-lAOlIX9-w7yMJEmBvnqrcH53W7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
